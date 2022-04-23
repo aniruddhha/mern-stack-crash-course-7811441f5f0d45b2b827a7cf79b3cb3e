@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/aniruddhha/mern-stack-crash-course-7811441f5f0d45b2b827a7cf79b3cb3e#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
   }
 }
