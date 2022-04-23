@@ -1,0 +1,27 @@
+{
+  "name": "rest-api",
+  "version": "0.0.1",
+  "description": "sample rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniruddhha/mern-stack-crash-course-7811441f5f0d45b2b827a7cf79b3cb3e.git"
+  },
+  "keywords": [
+    "rest",
+    "training",
+    "nodejs"
+  ],
+  "author": "aniruddha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniruddhha/mern-stack-crash-course-7811441f5f0d45b2b827a7cf79b3cb3e/issues"
+  },
+  "homepage": "https://github.com/aniruddhha/mern-stack-crash-course-7811441f5f0d45b2b827a7cf79b3cb3e#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
